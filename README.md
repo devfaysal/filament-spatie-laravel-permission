@@ -15,14 +15,8 @@ composer require devfaysal/filament-spatie-laravel-permission
 You can publish and run the migrations with:
 
 ```bash
-php artisan vendor:publish --tag="filament-spatie-laravel-permission-migrations"
+php artisan vendor:publish --provider="Spatie\Permission\PermissionServiceProvider"
 php artisan migrate
-```
-
-You can publish the config file with:
-
-```bash
-php artisan vendor:publish --tag="filament-spatie-laravel-permission-config"
 ```
 
 ## Changelog
