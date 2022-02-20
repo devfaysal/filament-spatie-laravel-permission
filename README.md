@@ -1,4 +1,4 @@
-# filament-spatie-laravel-permission
+# spatie/laravel-permission UI for laravel-filament/filament 
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/devfaysal/filament-spatie-laravel-permission.svg?style=flat-square)](https://packagist.org/packages/devfaysal/filament-spatie-laravel-permission)
 [![GitHub Tests Action Status](https://img.shields.io/github/workflow/status/devfaysal/filament-spatie-laravel-permission/run-tests?label=tests)](https://github.com/devfaysal/filament-spatie-laravel-permission/actions?query=workflow%3Arun-tests+branch%3Amain)
